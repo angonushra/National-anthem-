@@ -10,7 +10,7 @@
 <h2>🇳🇬 National Anthem of Nigeria</h2>
 
 <audio id="anthem" autoplay muted controls>
-  <source src="anthem.mp3" type="audio/mpeg">
+  <source src="anthem.m4a" type="audio/mp4">
   Browser ɗinka bai goyi bayan audio ba
 </audio>
 
